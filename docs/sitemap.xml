@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://naokioouchi.github.io/ooooouchi/</loc>
+    <loc>https://naokioouchi.github.io/ooooouchi/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://naokioouchi.github.io/ooooouchi/talk/example-talk/</loc>
+    <loc>https://naokioouchi.github.io/ooooouchi/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://naokioouchi.github.io/ooooouchi/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://naokioouchi.github.io/ooooouchi/talk/</loc>
+    <lastmod>2021-02-24T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://naokioouchi.github.io/ooooouchi/talk/2021-02-24/</loc>
+    <lastmod>2021-02-24T19:00:00+00:00</lastmod>
   </url><url>
     <loc>https://naokioouchi.github.io/ooooouchi/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
@@ -35,19 +41,31 @@
     <loc>https://naokioouchi.github.io/ooooouchi/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://naokioouchi.github.io/ooooouchi/talk/2020-09-24/</loc>
+    <lastmod>2020-09-24T19:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://naokioouchi.github.io/ooooouchi/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://naokioouchi.github.io/ooooouchi/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://naokioouchi.github.io/ooooouchi/tag/deep-learning/</loc>
+    <loc>https://naokioouchi.github.io/ooooouchi/project/company/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://naokioouchi.github.io/ooooouchi/project/example/</loc>
+    <loc>https://naokioouchi.github.io/ooooouchi/project/excelcellinfogenerator/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://naokioouchi.github.io/ooooouchi/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://naokioouchi.github.io/ooooouchi/tag/tools/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://naokioouchi.github.io/ooooouchi/tag/web-service/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://naokioouchi.github.io/ooooouchi/project/senryutter/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://naokioouchi.github.io/ooooouchi/publication-type/1/</loc>

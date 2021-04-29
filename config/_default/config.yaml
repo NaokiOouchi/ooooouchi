@@ -3,16 +3,16 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Naoki Oouchi # Website name
 baseurl: 'https://naokioouchi.github.io/ooooouchi/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Naoki Oouchi' # Footer text, e.g. '© {year} Me'
 publishDir:  'docs'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: ja
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
