@@ -1,13 +1,13 @@
 ---
-title: ExcelCellInfoGenerator
+title: cell-info-2-json
 summary: |2-
-  Excelのセル内情報をJsonファイルに書き出すMavenプロジェクト
+  Excelのセル内情報をJsonファイルに書き出すOSSライブラリ
 tags:
 - Tools
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/no-dumps/excel-cell-info-generator"
+external_link: "https://github.com/no-dumps/cell-info-2-json"
 
 # links:
 # - icon: twitter
