@@ -6,20 +6,21 @@ title: Naoki Oouchi
 superuser: true
 
 # Role/position/tagline
-role: Web Engineer
+role: Web Product Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: LITALICO Inc.
-  url: https://litalico.co.jp/
+- name: DeNA Co., Ltd.
+  url: https://dena.com/jp/
 
 # Short bio (displayed in user profile at end of posts)
 bio: " 
-株式会社LITALICOのサーバーサイドエンジニア
+株式会社ディー・エヌ・エーのエンジニア
 "
 
 # Interests to show in About widget
 interests:
+- Go
 - PHP
   - Laravel
 - Java
@@ -75,4 +76,5 @@ highlight_name: false
 ---
 
 2016年4月に株式会社システムシェアードに新卒入社し、自社内の受託開発や自社新規サービス開発でシステムエンジニア、プロジェクトリーダーを務める。  
-2021年1月より株式会社LITALICOにて障害者福祉に関わるプロダクトのサーバーサイドエンジニアとして従事中。
+2021年1月に株式会社LITALICOに入社し、障害者福祉に関わるプロダクトのサーバーサイドエンジニアを務める。
+2022年8月より株式会社ディー・エヌ・エーにて新規事業立ち上げを主とするエンジニアとして従事。

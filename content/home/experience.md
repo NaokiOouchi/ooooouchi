@@ -22,6 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Product Engineer
+    company: 株式会社ディー・エヌ・エー
+    company_url: 'https://dena.com/jp/'
+    date_start: '2022-08-01'
+        
   - title: Web Engineer
     company: 株式会社LITALICO
     company_url: 'https://litalico.co.jp/'

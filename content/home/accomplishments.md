@@ -24,13 +24,31 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - date_end: ""
+  date_start: "2022-08-01"
+  organization: 株式会社ディー・エヌ・エー
+  title: Product Engineer
+  description: |2-
+    
+    <h6>新規事業立ち上げ</h6>
+    新規事業に関わるエンジニアリングをしています。
+    クライアントへのヒアリングからGoを使用したサーバーサイドプログラミングまでなんでもやっています。
+    <br />
+
+- date_end: "2022-07-31"
   date_start: "2021-01-01"
   organization: 株式会社LITALICO
   title: Web Engineer
   description: |2-
     
+    <h6>LITALICOワークス 社内向け運営ツール新規開発</h6>
+    自社内向け運営ツールをフルスクラッチでリプレイスしました。
+    請求に関わる機能のチームリーダーを担当していました。
+    <br />
+
+    https://works.litalico.jp/
+    
     <h6>発達ナビ 発達支援施設運営支援サービスの開発</h6>
-    発達支援施設向けのの運営支援サービスの保守、追加機能開発を担当しています。
+    発達支援施設向けのの運営支援サービスの保守、追加機能開発を担当していました。
     <br />
 
     https://inquiry.h-navi-biz.jp/
